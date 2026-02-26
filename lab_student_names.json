@@ -1,0 +1,8 @@
+{
+  "students": [
+    {
+      "name": "student-name",
+      "github": "github-username"
+    }
+  ]
+}
