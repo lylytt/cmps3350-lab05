@@ -3,6 +3,10 @@
     {
       "name": "student-name",
       "github": "github-username"
+    },
+    {
+        "name": "norman",
+        "github": "elexation"
     }
   ]
 }
