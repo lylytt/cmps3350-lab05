@@ -1,12 +1,19 @@
 {
     "students": [
-        {
-            "name": "Nate",
-            "github": "NateWilemon"
-        },
-        {
-            "name": "student-name",
-            "github": "github-username"
-        }
-    ]
+    {
+        "name": "Nate",
+        "github": "NateWilemon"
+    },
+    { "name": "yareth",
+      "github": "yguevara-chavez"
+    },
+    {
+      "name": "ly",
+      "github": "ly2trieu"
+    },
+    {
+      "name": "student-name",
+      "github": "github-username"
+    }
+  ]
 }
