@@ -17,12 +17,16 @@
 
     },  
     {
-      "name": "student-name",
-      "github": "github-username"
+      "name": "Angel Moreno",
+      "github": "morenoeangel1018"
     },
     {
         "name": "norman",
         "github": "elexation"
+    },
+    {  
+      "name": "student-name",
+      "github": "github-username"
     }
   ]
 }
