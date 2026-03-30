@@ -1,9 +1,34 @@
 {
-  "students": [
+    "students": [
     {
       "name": "Jovanny Estrada",
       "github": "JovannyE18"
-          
+    },
+    { "name": "Nate",
+      "github": "NateWilemon"
+    },
+    { "name": "yareth",
+      "github": "yguevara-chavez"
+    },
+    {
+      "name": "ly",
+      "github": "ly2trieu"
+    },
+    {
+      "name": "jj",
+      "github": "jhsjomar"
+    },  
+    {
+      "name": "Angel Moreno",
+      "github": "morenoeangel1018"
+    },
+    {
+        "name": "norman",
+        "github": "elexation"
+    },
+    {  
+      "name": "student-name",
+      "github": "github-username"
     }
   ]
 }
